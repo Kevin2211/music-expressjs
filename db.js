@@ -32,6 +32,13 @@ let albums = [{
   imgURL:"https://i1.sndcdn.com/artworks-000195040430-qre7vc-t500x500.jpg",
 
  songTitles:["Changed my phone","Secure the bag", "Fresh"]
+},
+{  
+  name:"The Perfect Luv Tape",
+  publishDate:"2016",
+  imgURL:"https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_912,w_1200,x_0,y_288,f_auto,q_auto:eco/CokO0s4VUAAOtIj_anh2v3/CokO0s4VUAAOtIj_anh2v3.jpg",
+
+ songTitles:["Do what I want","Original Uzi", "You're Lost", "Erase your social", "I can drive"]
 }
 
 
